@@ -10,9 +10,8 @@
 
 # ⬛ Sobre o Projeto
 
-- `Fonte:` Importante ressaltar que não temos propriedade sobre o conteúdo, apenas reunimos e organizamos o que já está disponivel na internet 😜
-- `Desenvolvimento:` Sempre em desenvolvimento para melhorar a experiência do usuário com o conteúdo reunido
-- `Comunidade:` Contamos com o apoio da comunidade para colaborar com o projeto, apontar melhorias e ajudar no desenvolvimento
+- `Sobre:` Primeiramente, é importante ressaltar que o autor deste código não se responsabiliza sobre o conteúdo reunido aqui. A ideia do projeto é simplesmente construir uma interface para conteúdos que já estão disponíveis na web. O uso indevido desse conteúdo não é de responsabilidade do autor. 😜
+
 
 ## ✔️ Tecnologias utilizadas
 
